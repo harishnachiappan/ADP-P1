@@ -1,0 +1,14 @@
+.my{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:x-large;
+}
+.mn{
+    height:90px ;
+    width: 90px;
+    border-radius: 45px;
+}
+body{
+    background-image:url('sky.jpg') ;
+    background-size: cover;
+}
